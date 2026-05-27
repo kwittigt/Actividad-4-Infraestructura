@@ -1,4 +1,4 @@
-# Actividad 4.4: Optimización de Pipelines de Datos con Python
+# Actividad 4: Optimización de Pipelines de Datos con Python
 
 Este proyecto es una demostración práctica de diversas técnicas de ingeniería de datos para procesar grandes volúmenes de información de manera eficiente utilizando Python y librerías del ecosistema de PyData. A través de una serie de experimentos, se analiza el rendimiento (tiempo y memoria) de diferentes estrategias para la lectura, procesamiento y almacenamiento de un dataset simulado de consumo eléctrico.
 
